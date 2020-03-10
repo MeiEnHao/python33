@@ -1,1 +1,3 @@
 str1 = 'manager'
+str2 = 'zhangsan'
+
